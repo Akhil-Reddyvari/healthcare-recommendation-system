@@ -236,6 +236,10 @@ Geetha Enikepalli
 B.Tech – Artificial Intelligence and Data Science
 Amrita Vishwa Vidyapeetham, Bengaluru
 
+Reddyvari Akhil Reddy
+B.Tech – Artificial Intelligence and Data Science
+Amrita Vishwa Vidyapeetham, Bengaluru
+
 ---
 
 ## Conclusion
